@@ -1,0 +1,77 @@
+body{
+    /* background-color:slategrey; */
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.top-banner{
+    color: white;
+    
+}
+.row{
+    /* color: white; */
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.button{
+    background-color: #FF136F;
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.balck-bg{
+    background-color: black;
+    border-radius: 10px;
+}
+section{
+    text-align: center;
+    /* color: white; */
+}
+.card-title{
+    color: black;
+    text-align: center;
+}
+.card-text{
+    color: black;
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px black;
+}
+.services{
+    /* color: white; */
+    text-align: center;
+}
+.services-section{
+    font-size: 15px;
+}
+.services-section img{
+    width: 80px;
+}
+.contact{
+    text-align: center;
+}
+#contact-us{
+    text-align: center;
+}
+.col1{
+    border-right: 1px solid lightgray;
+}
+.col2{
+    border-right: 1px solid lightgray;
+}
+footer{
+    text-align: center;
+}
